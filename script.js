@@ -4,7 +4,7 @@
 const photos = [
   '0.jpeg', '0-a.jpeg',   '2.jpeg',  '3.jpeg',  '4.jpeg',  '5.jpeg',
   '6.jpeg',  '7.jpeg',  '8.jpeg',   '8-a.jpeg',  '9.jpeg',  '9-b.jpeg',
-  '9-a.jpeg',  '16.jpeg',  '10.jpeg',  '15.jpeg',  '14.jpeg',  '18.jpeg',
+  '9-a.jpeg',  '16.jpeg',  '15.jpeg',  '14.jpeg',  '10.jpeg',  '18.jpeg',
   '19.jpeg',  '20.jpeg',  '22.jpeg',  '23.jpeg',  '24.jpeg',  '25.jpeg',
   '26.jpeg',  '27.jpeg',  '28.jpeg',  '30.jpeg',   '31.jpeg',
   '32.jpeg',  '33.jpeg',  '34.jpeg',  '35.jpeg',  '36.jpeg',  '37.jpeg',
