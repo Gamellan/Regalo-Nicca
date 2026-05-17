@@ -10,7 +10,7 @@ const photos = [
   '32.jpeg',  '33.jpeg',  '34.jpeg',  '35.jpeg',  '36.jpeg',  '37.jpeg',
   '38.jpeg',  '39.jpeg',  '40.jpeg',   '41.jpeg',  '42.jpeg',  '43.jpeg',
   '44.jpeg',  '45.jpeg',  '46.jpeg',   '47.jpeg',  '48.jpeg',
-  '51.jpeg',  '52.jpeg',   '53.jpeg',  '54.jpeg',  '55.jpeg'
+  '51.jpeg',  '52.jpeg',   '53.jpeg',  '54.jpeg'
 ];
 
 /* =========================================
@@ -19,14 +19,14 @@ const photos = [
    ========================================= */
 const phrases = {
   0: "It's already been a year since we first saw each other",
-  6: "I fell in love with you because of the way you treat me, with so much love and tenderness",
+  7: "I fell in love with you because of the way you treat me, with so much love and tenderness",
   12: "I didn't hesitate for a minute to marry you",
   19: "I hit the jackpot when I met you",
-  25: "We have shared so many great moments together",
+  27: "We have shared so many great moments together",
   31: "We have visited so many beautiful places together",
   37: "Every minute with you is worth an eternity without you",
   43: "You are the love of my life",
-  50: "I want us to be together, now and forever"
+  49: "I want us to be together, now and forever"
 };
 
 /* =========================================
