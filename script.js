@@ -18,15 +18,15 @@ const photos = [
    Distributed evenly across the 56 photos
    ========================================= */
 const phrases = {
-   5: "It's already been a year since we first saw each other",
-  11: "I fell in love with you because of the way you treat me, with so much love and tenderness",
-  16: "I didn't hesitate for a minute to marry you",
-  22: "I hit the jackpot when I met you",
-  27: "We have shared so many great moments together",
-  33: "We have visited so many beautiful places together",
-  38: "Every minute with you is worth an eternity without you",
-  44: "You are the love of my life",
-  49: "I want us to be together, now and forever"
+  0: "It's already been a year since we first saw each other",
+  6: "I fell in love with you because of the way you treat me, with so much love and tenderness",
+  12: "I didn't hesitate for a minute to marry you",
+  19: "I hit the jackpot when I met you",
+  25: "We have shared so many great moments together",
+  31: "We have visited so many beautiful places together",
+  37: "Every minute with you is worth an eternity without you",
+  43: "You are the love of my life",
+  50: "I want us to be together, now and forever"
 };
 
 /* =========================================
